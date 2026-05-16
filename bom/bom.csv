@@ -1,0 +1,13 @@
+Item,Quantity,Purpose,Example Link,Notes
+Arduino Nano or compatible microcontroller,1,Runs the C++ firmware,https://store.arduino.cc/products/arduino-nano,An Arduino Nano clone can also work
+0.96 inch I2C OLED display,1,Shows timer and mode,https://www.adafruit.com/product/326,SSD1306 I2C display
+Momentary push button,3,Mode Start/Pause Reset controls,https://www.adafruit.com/product/367,Any breadboard-friendly push button works
+5mm LED,3,Focus Break Done status indicators,https://www.adafruit.com/product/297,Use different colors if possible
+220 ohm resistor,3,Limits LED current,https://www.adafruit.com/product/2780,One resistor per LED
+10k ohm resistor,3,Optional button pulldown/pullup resistors,https://www.adafruit.com/product/2784,Not required if using internal pullups
+Jumper wires,1 pack,Connects components,https://www.adafruit.com/product/153,Breadboard jumper wires
+Breadboard or perfboard,1,Holds prototype circuit,https://www.adafruit.com/product/64,Use PCB instead if designing one
+USB cable,1,Powers and programs the microcontroller,https://store.arduino.cc/products/usb-2-0-cable-type-a-b,Match your board connector
+3D printed case or CAD enclosure,1,Holds all parts together,,Designed by me for CodeDeck
+Small screws,4-8,Mounts case and electronics,,Choose after CAD dimensions are final
+
