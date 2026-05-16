@@ -48,21 +48,16 @@ The case will have cutouts for:
 
 ## Images
 
-Add the required design images here before submitting:
+Current design images:
+
+![Wiring diagram](wiring/wiring-diagram.png)
+
+Still needed before submitting:
 
 - Full screenshot of the assembled CAD model
 - Top view of the CAD model
 - Internal view showing how the electronics fit
-- Wiring diagram or PCB screenshot
 - Screenshot of the zine page
-
-Example Markdown after you add images:
-
-```md
-![Full CAD assembly](images/full-cad-assembly.png)
-![Wiring diagram](wiring/wiring-diagram.png)
-![Zine page](zine/codedeck-zine.png)
-```
 
 ## Bill of Materials
 
