@@ -54,10 +54,9 @@ Current design images:
 ![Top view](images/top-view.png)
 ![Inside electronics view](images/inside-view.png)
 ![Wiring diagram](wiring/wiring-diagram.png)
+![Fallout zine page](zine/codedeck-zine.png)
 
-Still needed before submitting:
-
-- Screenshot of the zine page
+Design submission image set is complete.
 
 ## Bill of Materials
 
