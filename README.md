@@ -50,13 +50,13 @@ The case will have cutouts for:
 
 Current design images:
 
+![Full CAD assembly](images/full-cad-assembly.png)
+![Top view](images/top-view.png)
+![Inside electronics view](images/inside-view.png)
 ![Wiring diagram](wiring/wiring-diagram.png)
 
 Still needed before submitting:
 
-- Full screenshot of the assembled CAD model
-- Top view of the CAD model
-- Internal view showing how the electronics fit
 - Screenshot of the zine page
 
 ## Bill of Materials
