@@ -4,7 +4,7 @@
 
 **Project:** CodeDeck  
 **Started:** 4:32 PM  
-**Ended:** Fill in the real end time from your timer/journal  
+**Ended:** 6:59 PM  
 **Type of work:** Design, documentation, firmware planning, wiring, CAD, zine
 
 Today I started CodeDeck from scratch. I wanted to make a hardware project that connects to something I already care about: coding in C++. The idea became a small desk gadget for coding focus, with buttons, LEDs, and an OLED display for focus timers, break timers, and simple status feedback.
